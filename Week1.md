@@ -11,11 +11,10 @@ The first week objectives are below.
 
 ### Technical Objectives
 - Set up a development environment 
-- Use Visual Studio Code to program
 - Understand Git commands, workflow and version control best practices
-- Introduction to writing HTML
+- Introduction to building HTML sites
 
-## Estimate time
+## Estimated time
 - 15m - Installing VS Code
 - 4h 30m - Git Essential Training
 - 5h - HTML Essential Training
@@ -44,5 +43,8 @@ Module: [HTML Essential Training](https://github.com/Leap-Internal-Program/html-
 There is no class presentation this week. 
 
 ## Project
-There is no project to turn for week 1.  Instead, after completing both LinkedIn Learning lessons add the learning to the *License and certification* section of the your LinkedIn Page.
+There is no project to turn for week 1.  Instead, add both LinkedIn Learning certificates on the course you completed to the *License and certification* section of the your LinkedIn Page.  *You may choose to share that you completed this learning on your network.*
 ![License and certification](./img/license-and-certification-for-agile.png)
+
+Use the following instructions: [Add Learning Certificates of Completion and Skills to Your LinkedIn Profile](https://www.linkedin.com/help/linkedin/answer/71929/adding-linkedin-learning-courses-and-skills-to-your-profile).
+
