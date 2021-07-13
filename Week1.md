@@ -1,4 +1,4 @@
-# Week 1: Version control and HelloWorld.html
+# Week 1: Version Control & HTML
 
 ## Summary
 This is the first week of the IC1 web development segment.  The week focuses on git version control and learning the basics of HTML. The structure of the first week is spending half the time watching videos and then the other practicing alongside the presenter.
