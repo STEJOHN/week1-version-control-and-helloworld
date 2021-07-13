@@ -5,7 +5,7 @@ This is the first week of the IC1 web development segment.  The week focuses on 
 
 This is a proven method for learning new programming concepts, especially when self-studying.
 
-Future lessons are more project or activity oriented. Next weeks, for example, is project based.  Apprentices will combine their learning in HTML, CSS, Git, and GitHub to deploy their first webpage.
+Future lessons are more project or activity oriented. Next weeks, for example, is project based.  ou will combine your learning in HTML, CSS, Git, and GitHub to deploy your first webpage.
 
 The first week objectives are below.
 
